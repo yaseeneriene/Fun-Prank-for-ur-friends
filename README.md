@@ -1,7 +1,2 @@
-here is the code so ur not suspicous of any viruses
-Dim var
-Do until var=6
-var=msgbox("Are You An Idiot?",4+16,"PC Hacked")
-Loop
-a=msgbox("HAHAHA I Knew It!",0=64,"PC Hacked")
-i did this in windows notepad lol
+code is the file name "yaseen.exe" it dosent install anything. it just says the code. copy the code in notpad, save it as a vbs file. (ex:goofy.vbs)
+enjoy
